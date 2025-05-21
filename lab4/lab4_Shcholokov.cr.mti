@@ -1,0 +1,15 @@
+D:/modelsim/modelsim_ase/examples/lab4/sam_robota.v {1 {vlog -work work -nocovercells D:/modelsim/modelsim_ase/examples/lab4/sam_robota.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module My_Ex2_OR
+
+Top level modules:
+	My_Ex2_OR
+
+} {} {}} D:/modelsim/modelsim_ase/examples/lab4/Ex2_OR.v {1 {vlog -work work -nocovercells D:/modelsim/modelsim_ase/examples/lab4/Ex2_OR.v
+Model Technology ModelSim ALTERA vlog 6.5b Compiler 2009.10 Oct  1 2009
+-- Compiling module Ex2_OR
+
+Top level modules:
+	Ex2_OR
+
+} {} {}}

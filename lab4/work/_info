@@ -1,0 +1,39 @@
+m255
+K3
+13
+cModel Technology
+dD:\modelsim\modelsim_ase\examples
+vEx2_OR
+IBHF=GGAcbBnioMgAGLo`Q0
+VYfliPh^TfB6O=FTZ0CUe30
+Z0 dD:\modelsim\modelsim_ase\examples\lab4
+w1747328494
+8D:/modelsim/modelsim_ase/examples/lab4/Ex2_OR.v
+FD:/modelsim/modelsim_ase/examples/lab4/Ex2_OR.v
+L0 1
+Z1 OV;L;6.5b;42
+r1
+31
+Z2 !s102 -nocovercells
+Z3 o-work work -nocovercells -O0
+n@ex2_@o@r
+!s100 nRDmkFVK0BEch8[H[GDob0
+!s85 0
+!s101 -O0
+vMy_Ex2_OR
+!s100 @RBUF?V?P_^I?EzDRQEGD3
+Ik]AeeFZJzgGS^2VMOOgg42
+V5l>jK>aN5dbiBU_I3?C1R0
+Z4 dD:\modelsim\modelsim_ase\examples\lab4
+w1747331349
+8D:/modelsim/modelsim_ase/examples/lab4/sam_robota.v
+FD:/modelsim/modelsim_ase/examples/lab4/sam_robota.v
+L0 1
+R1
+r1
+!s85 0
+31
+!s101 -O0
+R2
+R3
+n@my_@ex2_@o@r
